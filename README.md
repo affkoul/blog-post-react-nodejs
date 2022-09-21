@@ -18,6 +18,8 @@ ReactJS frontend and NodeJS backend Blog Post web app.
 
 ## In Action
 
-Blog Post PaaS Provided by [GAC DEV](https://geniusandcourage.com)![GAC Logo](https://geniusandcourage.com/favicon.ico)
+![GAC Logo](https://geniusandcourage.com/favicon.ico)
+
+Blog Post PaaS Provided by [GAC DEV](https://geniusandcourage.com)
 
 ![Blog Post PaaS](https://hlwsdtech.com/elearn/Blog_Post_PaaS.png)
